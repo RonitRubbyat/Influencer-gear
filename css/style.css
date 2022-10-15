@@ -97,6 +97,8 @@ nav>.header>.header-items>ul>li>a {
 /* section-1 */
 .sec-1 .main-contant {
     display: flex;
+    justify-content: center;
+    align-content: center;
 }
 
 .contant-head {
@@ -248,6 +250,8 @@ nav>.header>.header-items>ul>li>a {
 
 .sec-4 .history-container {
     display: flex;
+    justify-content: center;
+    align-content: center;
 }
 
 .sec-4 .history-container img {
